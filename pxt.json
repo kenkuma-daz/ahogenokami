@@ -1,0 +1,30 @@
+{
+    "name": "ahogenokami",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-behavior": "github:kenkuma-daz/pxt-behavior#e91c837507c20780f9cb2a4203ab3c10f08e32d8",
+        "pxt-stage": "github:kenkuma-daz/pxt-stage#718d057cf520c89d76ce8c3a22420a9ee4ef3b8f"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.44",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
